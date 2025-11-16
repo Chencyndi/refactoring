@@ -1,3 +1,5 @@
+265820d Task 2.1
+5b34302 Task 1.2
 3049946 Task 1.1
 08a32e5 Mark Directory As
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
